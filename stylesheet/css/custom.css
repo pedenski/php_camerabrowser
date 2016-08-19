@@ -1,0 +1,39 @@
+html,body {
+ background: #e3ebed;
+ font-family: 'Montserrat', sans-serif;
+ padding: 20px;
+}
+
+h1 {
+ margin: 0;
+ padding:0;
+}
+
+#placeholder {
+ background-color: #ED5565;
+ border-radius: 3px;
+ width:100px;
+ height:100px;
+}
+
+
+
+
+
+.inner-container {
+ background-color: #fff;
+ border-radius: 3px;
+ padding:10px;
+
+}
+
+
+
+p.descri {
+  font-size: 14px;
+  color:#757575;
+}
+
+#inputfield {
+ margin-bottom: 2px;
+}
